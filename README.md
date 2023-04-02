@@ -7,3 +7,6 @@ Este modelo utiliza o [Python-tesseract](https://pypi.org/project/pytesseract/),
 ---
 ### Dependências 📒
 ```pip install pytesseract```
+
+Tesseract (necessário instalar na máquina)
+[clique aqui](https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows)
